@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_model>none</license_model>
+        <logo>77ef40732f02101048f43c96f699b6e7</logo>
+        <menu/>
+        <name>Hello World</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_475663_hello_wor</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Demo App</short_description>
+        <source>x_475663_hello_wor</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-23 10:01:58</sys_created_on>
+        <sys_id>0fef80b32f02101048f43c96f699b623</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-23 10:02:02</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>logoo.jpg</file_name>
+        <hash>7117ff02001ecec79a93c5e43eccdb8006846eb02cd149ed48de0480cc9b8ab8</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>2688</size_bytes>
+        <size_compressed>2421</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-23 10:02:01</sys_created_on>
+        <sys_id>77ef40732f02101048f43c96f699b6e7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-07-23 10:02:03</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>0fef80b32f02101048f43c96f699b623</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logoo.jpg" sys_id="77ef40732f02101048f43c96f699b6e7">77ef40732f02101048f43c96f699b6e7</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-23 10:02:01</sys_created_on>
+        <sys_id>33ef40732f02101048f43c96f699b6e8</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3216</length>
+        <position>1</position>
+        <sys_attachment display_value="logoo.jpg" sys_id="77ef40732f02101048f43c96f699b6e7">77ef40732f02101048f43c96f699b6e7</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-23 10:02:01</sys_created_on>
+        <sys_id>b3ef40732f02101048f43c96f699b6e8</sys_id>
+    </sys_attachment_doc>
+</record_update>
